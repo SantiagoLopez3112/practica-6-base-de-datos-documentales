@@ -8,11 +8,6 @@ API REST desarrollada con Node.js, Express y MongoDB Atlas para administrar sens
 - Colección: sensores
 - Cluster: Cluster0
 
-## Requisitos
-
-- Node.js y npm
-- Acceso al proyecto de MongoDB Atlas configurado en index.js
-
 ## Instalación y ejecución
 
 ~~~bash
@@ -42,5 +37,5 @@ El documento de la práctica quedó con el ObjectId 6ae2022a33a25827dd6979da y e
   "unidad": "°C"
 }
 ~~~
-
+Se adjunta tambien una imagen de los resultados obtenidos en desde MongoDB de Documento sensor con la medición.
 La URI de conexión usada para esta práctica está dentro de index.js, junto con el código de la API.
